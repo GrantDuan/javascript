@@ -1,0 +1,22 @@
+{
+  "name": "playjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "GeneratorsTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrantDuan/javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrantDuan/javascript/issues"
+  },
+  "homepage": "https://github.com/GrantDuan/javascript#readme",
+  "dependencies": {
+    "eslint": "^6.8.0"
+  }
+}
